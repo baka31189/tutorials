@@ -1,5 +1,6 @@
 Bahasa Pemograman
 - Java
 - php
+- Visual Basic
 
 *Ini adalah commit pertama.
