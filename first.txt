@@ -1,0 +1,5 @@
+Bahasa Pemograman
+- Java
+- php
+
+*Ini adalah commit pertama.
