@@ -1,9 +1,4 @@
-Bahasa Pemograman
-- Java
-- PHP
-- Visual Basic
-- C++
-- C
-- Pascal
-
-*Ini adalah commit pertama.
+perubahan kesatu di file pertama.
+perubahan kedua di file pertama.
+perubahan ketiga di file pertama.
+perubahan keempat di file pertama.
