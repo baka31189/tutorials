@@ -1,6 +1,6 @@
-satu
-dua
-tiga
+1
+2
+3
 4
 lima
 6
